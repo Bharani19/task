@@ -1,20 +1,20 @@
-#Steps to run the Project:
+###Steps to run the Project###:
 
 #To clone the repository
 
-  $git clone https://github.com/Bharani19/task.git
+  git clone https://github.com/Bharani19/task.git
 
 
 #Change the current directory to project directory
 
-  $cd task
+  cd task
 
 
 #To install all the dependencies #
 
-  $npm install 
+  npm install 
 
 
 #To run the project
 
-  $npm start
+  npm start
