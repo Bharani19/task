@@ -1,0 +1,33 @@
+h2{color: navy;
+  margin-left:20px;
+  font-size:30px;
+  font-family: Georgia, 'Times New Roman', Times, serif}
+  .container
+  {
+    margin-top:50px; 
+  }
+  hr{
+    width: 100%; border-top: 1px solid black;
+  }
+  .btn-circle {
+    width: 22px;
+    height: 22px;
+    text-align: center;
+    padding: 2px 0;
+    font-size: 13px;
+    line-height: 1.4;
+    border-radius: 15px;
+    font-weight: bolder;
+    padding: 2px;
+    margin: 20px; 
+  }
+  .column
+  {
+    display: inline;
+    border-bottom: black;
+    position:"relative"
+  }
+  .col {
+    color: navy;
+    font-size:15px;
+  } 
